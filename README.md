@@ -1,3 +1,3 @@
-## Market-Basket-in-R
- This was a class project to develop a market basket analysis of appliances sold on Amazon
+# Market-Basket-in-R
+# This was a class project to develop a market basket analysis of appliances sold on Amazon
 A market basket analysis is defined as one of the "key techniques used by large retailers to uncover associations between items". The project that I had to work on was to identify a market basket for appliances that were sold on Amazon utilizing text analysis skills and plotting skills within R. I then created a dissimalirty matrix and perceptual map to visualize the way that specific products interact with eachother. The maps that were created can help identify underlying similarities, or in this case, dissimilarities of the products. 
